@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64299081453",
+    "firebase_url": "https://mypokemonworld-d56b2.firebaseio.com",
+    "project_id": "mypokemonworld-d56b2",
+    "storage_bucket": "mypokemonworld-d56b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64299081453:android:d871b39b26b5b21a",
+        "android_client_info": {
+          "package_name": "com.coquema.sean.dev.mypokemonworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64299081453-bvsapkv9vod6lur721g17nrq8tdocl4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coquema.sean.dev.mypokemonworld",
+            "certificate_hash": "3a69843bb5fd6cf59aa6143e665ebfa7c35ba232"
+          }
+        },
+        {
+          "client_id": "64299081453-g5td13i57iq96tpg0r1ev1ikhh3japfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3X5vabHXQI_xA-w-kTPBEIfFvUH_nrw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64299081453-g5td13i57iq96tpg0r1ev1ikhh3japfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
