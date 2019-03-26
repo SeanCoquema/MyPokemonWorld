@@ -23,7 +23,9 @@ Autres fonctionnalités : Une barre de  recherche affichant par type/évolution 
 
 ## Voici une photo du deuxième écran d'acceuil
 
-## Voici une photo affichant les détails d'un Pokémon
-
 ## Voici une photo affichant la liste des Pokémon
 
+![Screenshot_20190326-144244_MyPokemonWorld](https://user-images.githubusercontent.com/48771441/55037995-c15fcc80-501f-11e9-8ef3-6af59aa2c887.jpg)
+
+
+## Voici une photo affichant les détails d'un Pokémon
