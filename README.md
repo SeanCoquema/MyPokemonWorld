@@ -21,11 +21,16 @@ Autres fonctionnalités : Une barre de  recherche affichant par type/évolution 
 
 ## Voici une photo du premier écran d'acceuil
 
+![Screenshot_20190326-144225_MyPokemonWorld](https://user-images.githubusercontent.com/48771441/55038214-67133b80-5020-11e9-9caa-79b578d8c6dc.jpg)
+
 ## Voici une photo du deuxième écran d'acceuil
+
+![Screenshot_20190326-144235_MyPokemonWorld](https://user-images.githubusercontent.com/48771441/55038213-67133b80-5020-11e9-9a15-55be4ae0933b.jpg)
 
 ## Voici une photo affichant la liste des Pokémon
 
 ![Screenshot_20190326-144244_MyPokemonWorld](https://user-images.githubusercontent.com/48771441/55037995-c15fcc80-501f-11e9-8ef3-6af59aa2c887.jpg)
 
-
 ## Voici une photo affichant les détails d'un Pokémon
+
+![Screenshot_20190326-144300_MyPokemonWorld](https://user-images.githubusercontent.com/48771441/55038215-67abd200-5020-11e9-9d45-8e6d71e0336d.jpg)
